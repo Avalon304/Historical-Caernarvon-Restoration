@@ -1,0 +1,10 @@
+<gun_06.model>
+  <materialNames>
+  </materialNames>
+  <visibilityBox>
+    <min>-0.729777 -0.329584 -1.0632</min>
+    <max>0.596266 0.271657 4.43448</max>
+  </visibilityBox>
+  <tank>	true	</tank>
+  <nodelessVisual>vehicles/british/GB23_Centurion/crash/lod0/Gun_06</nodelessVisual>
+</gun_06.model>
